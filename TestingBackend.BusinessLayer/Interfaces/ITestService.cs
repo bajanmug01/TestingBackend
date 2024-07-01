@@ -21,7 +21,7 @@ namespace TestingBackend.BusinessLayer.Interfaces
         /// bla
         /// </summary>
         /// <returns></returns>
-        Task<Result<TestDto>> CreateTestAsync(TestDto test);
+        Task<Result<TestDto>> CreateTestAsync(TestDto testDto);
 
         /// <summary>
         /// bla

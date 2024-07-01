@@ -1,0 +1,14 @@
+﻿{
+  "profiles": {
+    "TestingBackend.Api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "launchUrl": "docs",
+      "environmentVariables": {
+        "ASPNETCORE_URLS": "https://localhost:5555",
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": ""
+    }
+  }
+}
